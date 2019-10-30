@@ -30,7 +30,7 @@
     "rollup-plugin-babel": "^2.7.1",
     "stylus": "^0.54.5",
     "uglify-js": "^2.8.21",
-    "eslint": "^3.19.0",
+    "eslint": "^4.19.1",
     "eslint-config-airbnb-base": "^11.1.2",
     "eslint-plugin-import": "^2.2.0"
   },
